@@ -2,24 +2,26 @@
 description: 'Hey, my name Ahmad Wahyudi. I live in Indonesia'
 ---
 
-# Ahmad Wahyudi
+# Airdrop and Bounty
 
-These are some basic machine learning algorithms I implemented for school homework or for experiment.  
- Hope this can help beginners who are interested in R/Python programming and ML.  
- Note: All code are NOT optimized!
+Assalamu'alaikum warahmatullah wabarakatuh, 
 
-Current Models:
+Disini saya akan berbagi sedikit tips tentang langkah awal untuk memulai menjadi seorang pemburu Airdrop.
 
-* Colaborative Filtering \(R\)
-* Matrix Factorization \(java\)
-* linear regression \(python\)
-* logistic regression \(python, R\)
-* Naive Bayes \(python\)
-* Add SVM with SMO method \(pyhton\)
-* Gaussian mixture model \(python, PyMC\)
+Pengetahuan dasar yang harus dimiliki oleh teman-teman yang akan terjun ke bidang ini adalah sebagai berikut:
 
-TODO:
+1. Cryptocurrency
+2. Blockchain
 
-* kernel for SVM
-* GLMNET for linear
+\(silahkan 2 hal diatas sambil lalu searching di google\).
+
+Hal yang dibutuhkan untuk memulai menjadi seorang pemburu airdrop adalah sebagai berikut.
+
+1. Dompet ethereum, saya merekomendasikan \(myetherwallet.com\) 
+2. Akun Facebook \(wajib\)
+3. Akun Twitter \(wajib\)
+4. Telegram \(wajib\)
+5. Instagram \(opsional\)
+
+Mungkin untuk kedepannya saya akan share tentang airdrop melalui grup telegram -&gt; [https://t.me/airdroputm](https://t.me/airdroputm)
 

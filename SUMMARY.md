@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Ahmad Wahyudi](README.md)
+* [Airdrop and Bounty](README.md)
 
